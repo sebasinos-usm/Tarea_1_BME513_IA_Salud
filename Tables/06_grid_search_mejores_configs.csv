@@ -1,5 +1,0 @@
-Modelo,Learning_Rate,Epochs,Lambda_Reg,L1_Ratio
-RegLog,0.1,3000,,
-RegLog-L1,0.05,3000,0.001,
-RegLog-L2,0.05,3000,0.001,
-RegLog-L1-L2,0.05,3000,0.001,0.2

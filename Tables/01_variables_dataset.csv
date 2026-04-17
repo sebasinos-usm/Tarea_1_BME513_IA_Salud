@@ -1,7 +1,0 @@
-Variable,Tipo,Rol_Clinico,Rangos_o_Categorias
-Troponina_T,Continua,Biomarcador principal de daño miocárdico,Normal: <14 | Riesgo: 14-50 | Isquemia: >50
-Presion_Arterial,Continua,Indicador de estabilidad hemodinámica,Baja: <90 | Normal: 120 | Crisis: >180
-Fibrilacion_V,Binaria,Arritmia grave asociada a cuadros críticos,0: Ausente | 1: Presente
-Diabetes,Binaria,Factor de riesgo basal,0: No | 1: Sí
-Tipo_Dolor,Categórica,Presentación clínica del dolor torácico,1: No anginoso | 2: Atípico | 3: Angina inestable | 4: Angina típica
-Edad,Continua,Factor de riesgo general,18 - 95 años
