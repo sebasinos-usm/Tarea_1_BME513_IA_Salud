@@ -1,0 +1,5 @@
+Modelo,Accuracy,Balanced_Accuracy,Recall_Sano,Recall_Riesgo,Recall_Isquemia,F1_Weighted,Costo_Total
+RegLog-L1-L2,0.95,0.8757,0.9938,0.7333,0.9,0.9476,25
+RegLog-L1-L2-Weighted,0.975,0.9806,0.975,0.9667,1.0,0.9755,6
+RegLog-L1-L2-CostSensitive,0.99,0.9868,0.9938,0.9667,1.0,0.99,3
+RegLog-L1-L2-DecisionSensitive,0.97,0.9472,0.975,0.9667,0.9,0.9707,14

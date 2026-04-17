@@ -1,0 +1,4 @@
+Clase_real,Pred_Sano,Pred_Riesgo,Pred_Isquemia
+Sano,0,1,4
+Riesgo,2,0,6
+Isquemia,10,5,0

@@ -1,0 +1,13 @@
+Overlap,Modelo,Balanced_Accuracy,Recall_Isquemia,F1_Weighted,Costo_Total
+Bajo,RegLog,0.9979,1.0,0.995,1
+Bajo,RegLog-L1,0.9979,1.0,0.995,1
+Bajo,RegLog-L2,0.9646,0.9,0.99,6
+Bajo,RegLog-L1-L2,0.9646,0.9,0.99,6
+Medio,RegLog,0.9313,0.9,0.9747,12
+Medio,RegLog-L1,0.8979,0.9,0.9587,18
+Medio,RegLog-L2,0.8757,0.9,0.9476,22
+Medio,RegLog-L1-L2,0.8757,0.9,0.9476,22
+Alto,RegLog,0.8736,0.9,0.9428,23
+Alto,RegLog-L1,0.8424,0.9,0.93,28
+Alto,RegLog-L2,0.8313,0.9,0.9239,30
+Alto,RegLog-L1-L2,0.8424,0.9,0.93,28
